@@ -1,5 +1,7 @@
 <div align="center">
 
+![Chrollo Lucilfer](https://media.giphy.com/media/13fTar4VVaFlG8/giphy.gif)
+
 # Pedro Diogo Paiva de Lima
 
 **Estudante de Informática para Internet**  
